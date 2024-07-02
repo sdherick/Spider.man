@@ -1,7 +1,7 @@
 <h1 align="center"> Created By King M-cross </h1>
 
 <p align="center">
-<img src="https://telegra.ph/file/ffdf8c03757ecbf76f9f9.jpg" width="360" height="360"/>
+<img src="https://telegra.ph/file/7d316e1bd25e4b0def51c.jpg" width="360" height="360"/>
 </p>
 
 <p align="center">
@@ -69,7 +69,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 * [Mamang Adhiraj](https://github.com/adiwajshing)
 
-* [King Sam](https://github.com/Samue-l1)
 
 ## Contact Me
   
